@@ -1,2 +1,2 @@
-# Dependent -> data structure may have dependency on other self-created data structures
-# Indepdent -> all dependencies, if any, are encapsulated; plus tries to use core python if applicable
+Dependent: data structures may have dependency on other self-created data structures<br/>
+Indepdent: all dependencies, if any, are encapsulated; plus will try to use core python whenever applicable

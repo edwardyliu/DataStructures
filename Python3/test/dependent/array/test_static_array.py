@@ -2,7 +2,7 @@
 import os
 import sys
 folder_uri = os.path.dirname(__file__)
-sys.path.insert(1, os.path.join(folder_uri, "../../"))
+sys.path.insert(1, os.path.join(folder_uri, "../../../"))
 
 from dependent.array.static_array import StaticArray
 
